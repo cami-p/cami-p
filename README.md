@@ -1,4 +1,12 @@
-### Hi there 👋
+### About Me
+Hi, I'm **Camille Pon (she/her)**, a first-year computer science major at UC Irvine! I'm currently learning Python and completing the third course in the introductory to intermediate Python sequence this quarter. I also participate in on-campus clubs such as WICS (Women in Information Computer Science) and ICSSC (ICS Student Council). I enjoy problem solving and hope to learn a lot about the different applications of computer science. 
+
+### Contacting Me
+I'm looking for opportunities to work with others and gain more expererience in the field, so please feel free to contact me!
+
+- Connect on [LinkedIn](www.linkedin.com/in/camille-p-b23286219)
+- Read my [resume](https://github.com/cami-p/cami-p/files/8458042/pon_camille_resume.pdf)
+- Send an email
 
 <!--
 **cami-p/cami-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
