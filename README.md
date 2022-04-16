@@ -1,5 +1,7 @@
 ### About Me
-Hi, I'm **Camille Pon (she/her)**, a first-year computer science major at UC Irvine! I'm currently learning Python and completing the third course in the introductory to intermediate Python sequence this quarter. I also participate in on-campus clubs such as WICS (Women in Information Computer Science) and ICSSC (ICS Student Council). I enjoy problem solving and hope to learn a lot about the different applications of computer science. 
+Hi, I'm **Camille Pon (she/her)**, a first-year computer science major at UC Irvine! I'm learning Python and completing the third course in the introductory to intermediate Python sequence this quarter. I also participate in on-campus clubs such as WICS (Women in Information Computer Science) and ICSSC (ICS Student Council). I enjoy problem solving and hope to learn a lot about the different applications of computer science. 
+
+I'm currently learning how to use Git :)
 
 ### Contacting Me
 I'm looking for opportunities to work with others and gain more expererience in the field, so please feel free to contact me!
