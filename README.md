@@ -5,7 +5,7 @@ Hi, I'm **Camille Pon (she/her)**, a second-year computer science major at UC Ir
 I'm looking for opportunities to work with others and gain more expererience in the field, so please feel free to contact me!
 
 - Connect on [LinkedIn](www.linkedin.com/in/camille-p-b23286219)
-<!-- Read my [resume](https://github.com/cami-p/cami-p/files/8458042/pon_camille_resume.pdf)-->
+- Read my [resume](https://github.com/cami-p/cami-p/blob/main/Pon_Camille.pdf)
 - Send an [email](mailto:cpon1@uci.edu)
 ---
 #### Here's a photo of an Anteater :)
