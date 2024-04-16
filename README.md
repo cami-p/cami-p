@@ -1,11 +1,10 @@
 ### About Me
-Hi, I'm **Camille Pon (she/her)**, a second-year computer science major at UC Irvine! I learned Python in my first year, and now I am learning C++ and data structures and algorithms. I also participate in on-campus clubs such as WICS (Women in Information Computer Science) and ICSSC (ICS Student Council). I enjoy problem solving and hope to learn a lot about the different applications of computer science. 
+Hi, I'm **Camille Pon (she/her)**, a third-year computer science major at UC Irvine.
 
 ### Contacting Me
 I'm looking for opportunities to work with others and gain more expererience in the field, so please feel free to contact me!
 
 - Connect on [LinkedIn](www.linkedin.com/in/camille-p-b23286219)
-- Read my [resume](https://github.com/cami-p/cami-p/blob/main/Pon_Camille.pdf)
 - Send an [email](mailto:cpon1@uci.edu)
 ---
 #### Here's a photo of an Anteater :)
