@@ -1,10 +1,10 @@
 ### About Me
 Hi, I'm **Camille Pon (she/her)**, a computer science major at UC Irvine.
-
+<!--
 ---
 #### Here's a photo of an Anteater :)
 <img src = "https://user-images.githubusercontent.com/103341440/162597273-6d829198-b9bc-4a98-b268-803161a88045.JPG" width = "300" height = "300">
-
+-->
 <!--
 **cami-p/cami-p** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
